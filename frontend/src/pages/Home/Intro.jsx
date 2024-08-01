@@ -8,8 +8,10 @@ const Intro = () => {
       <p className="text text-white w-2/3">
         I am a Full Stack Developer. Currently working as a Software Developer at HTS Tech Solutions pvt. Ltd. Having a skills in ReactJS, NextJS, NodeJS, ExpresJs MongoDB, PostgreSQL, Supabase, Docker, AWS.
       </p>
+      
       <button className="border-2 border-tertiary text-tertiary px-10 py-3 rounded">Get Started</button>
     </div>
+
   )
 }
 
